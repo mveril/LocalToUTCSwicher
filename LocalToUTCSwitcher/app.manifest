@@ -16,16 +16,16 @@
             Supprimez cet élément si votre application a besoin de la virtualisation pour des
             raisons de compatibilité descendante.
         -->
-        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
       </requestedPrivileges>
     </security>
   </trustInfo>
 
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
     <application>
-      <!-- Liste des versions de Windows pour lesquelles cette application a été testée, et sur
-           lesquelles elle doit fonctionner. Supprimez les marques de commentaire des éléments appropriés, et Windows va 
-           automatiquement sélectionner l'environnement le plus compatible. -->
+      <!-- Liste des versions de Windows pour lesquelles cette application a été testée,
+           et sur lesquelles elle doit fonctionner. Décommentez éléments appropriés,
+           et Windows va automatiquement sélectionner l'environnement le plus compatible. -->
 
       <!-- Windows Vista -->
       <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
